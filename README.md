@@ -10,3 +10,6 @@ Model Evaluation:
 R² Score to measure variance explained.
 Mean Squared Error (MSE) to assess prediction accuracy.
 New Prediction: Allows for predicting future sales by inputting new ad budgets.
+Sales prediction means predicting how much of a product people will buy based on factors
+such as the amount you spend to advertise your product, the segment of people you
+advertise for, or the platform you are advertising on about your product.
